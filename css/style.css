@@ -1,0 +1,65 @@
+.imagem {
+    min-width: 120px;
+    min-height: 120px;
+}
+
+.menu {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.3rem;
+    font-weight: lighter;
+    color: white;
+}
+
+.menu:hover, .ativo {
+    color: darkorange;
+    font-weight: bolder;
+    font-size: 1.3rem;    
+}
+
+.menu {
+    padding-top: 40px;
+}
+
+.menu-sm {
+    font-family: 'Oswald', sans-serif;
+    font-weight: lighter;
+    font-size: 0.75em;
+    color: rgb(124, 124, 124);
+}
+
+.menu-sm:hover, .ativo-sm {
+    color: darkorange;
+    font-weight: bolder;
+}
+.name {
+    font-family: 'Oswald', sans-serif;
+    font-size: 3.5rem;
+    color: black;
+    font-weight: bold;   
+}
+
+span {    
+    font-family: 'Oswald', sans-serif;    
+    color: darkorange;
+}
+
+.address, .fone, .titulo {
+    font-family: 'Oswald', sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1.5rem;
+}
+.rede-social {
+    color:#000000;   
+}
+
+
+
+
+
+
+
